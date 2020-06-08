@@ -30,10 +30,10 @@ export default {
       name: 'Blog',
       link: '/blog'
     },
-    {
-      name: 'Kniha',
-      link: '/kniha'
-    },
+    // {
+    //   name: 'Kniha',
+    //   link: '/kniha'
+    // },
     // {
     //   name: 'Github Repo',
     //   link: 'https://github.com/danielkellyio/awake-template',
