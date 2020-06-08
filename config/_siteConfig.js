@@ -9,7 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Nikčiblog',
+  siteName: 'Nikčiweb',
   tagline: 'Takový malý blogík',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
@@ -27,8 +27,8 @@ export default {
       link: '/contact'
     },
     {
-      name: 'Categories',
-      link: '/categories'
+      name: 'blog',
+      link: '/blog'
     },
     // {
     //   name: 'Github Repo',
@@ -36,8 +36,8 @@ export default {
     //   target: '_blank'
     // },
     {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
+      name: 'Míši webík',
+      link: 'https://misiweb.netlify.com/',
       target: '_blank'
     }
   ],
