@@ -29,21 +29,12 @@ export default {
     {
       name: 'Obsah',
       link: '/categories'
-    },
-    // {
-    //   name: 'Kniha',
-    //   link: '/kniha'
-    // },
-    // {
-    //   name: 'Github Repo',
-    //   link: 'https://github.com/danielkellyio/awake-template',
-    //   target: '_blank'
-    // },
-    {
-      name: 'Míši webík',
-      link: 'https://misiweb.netlify.com/',
-      target: '_blank'
     }
+    // {
+    //   name: 'Míši webík',
+    //   link: 'https://misiweb.netlify.com/',
+    //   target: '_blank'
+    // }
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
@@ -64,7 +55,7 @@ export default {
   // Disqus
   disqus: {
     on: true,
-    loadingStrategy: 'button', // Options: onload, lazy, button
+    loadingStrategy: 'lazy', // Options: onload, lazy, button
     siteShortName: 'nikciweb' // 'blog-danielkelly-io'
   },
 
