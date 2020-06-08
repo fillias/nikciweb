@@ -27,8 +27,8 @@ export default {
       link: '/contact'
     },
     {
-      name: 'Blog',
-      link: '/blog'
+      name: 'Obsah',
+      link: '/categories'
     },
     // {
     //   name: 'Kniha',
