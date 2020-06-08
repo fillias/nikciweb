@@ -22,10 +22,10 @@ export default {
       name: 'O mně',
       link: '/about'
     },
-    {
-      name: 'Contact',
-      link: '/contact'
-    },
+    // {
+    //   name: 'Contact',
+    //   link: '/contact'
+    // },
     {
       name: 'Obsah',
       link: '/categories'
