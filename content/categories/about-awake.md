@@ -1,5 +1,5 @@
 ---
-name: About Awake
+name: Můj malý blog
 image: /logo.svg
 ---
-All about the Awake Nuxt Template
+Tady se občas rozkecám

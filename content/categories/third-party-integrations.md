@@ -1,5 +1,5 @@
 ---
-name: Third Party Integrations
+name: Moje kniha na pokračování
 image: https://picsum.photos/1800/1801
 ---
-Extend the functionality of Awake with third party integrations
+Moje druhá kniha
