@@ -27,8 +27,12 @@ export default {
       link: '/contact'
     },
     {
-      name: 'blog',
+      name: 'Blog',
       link: '/blog'
+    },
+    {
+      name: 'Kniha',
+      link: '/kniha'
     },
     // {
     //   name: 'Github Repo',
