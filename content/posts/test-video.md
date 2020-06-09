@@ -7,4 +7,4 @@ author: Nikola
 date: 2020-06-09T14:29:39.163Z
 featureImage: /uploads/contact-hero.jpg
 ---
-[tady](/bestFriendMeme.mp4) je odkaz na video
+[tady](/videa/bestFriendMeme.mp4) je odkaz na video
