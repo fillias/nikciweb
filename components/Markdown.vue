@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import It from 'markdown-it'
+import MarkdownIt from 'markdown-it'
 import VRuntimeTemplate from 'v-runtime-template'
 
 import mila from 'markdown-it-link-attributes'
