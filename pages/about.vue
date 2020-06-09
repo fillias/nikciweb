@@ -27,6 +27,9 @@
             <i>
               Orio a čtvrtá včelička
             </i>. <a href="/orio.pdf" target="_blank">Tady</a> si jí můžete stáhnout a přečíst.
+            <br>
+             Teď píšu druhou, a postupně jí tu budu publikovat. Číst si jí můžete <a href=" /categories/kniha-na-pokra%C4%8Dov%C3%A1n%C3%AD" target="_blank">tady</a>.
+            
           </p>
           <!-- <quote-card /> -->
           <h3>Still More Fake Content</h3>
