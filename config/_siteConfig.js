@@ -19,6 +19,10 @@ export default {
   },
   mainMenu: [
     {
+      name: 'Domů',
+      link: '/',
+    },
+    {
       name: 'O mně',
       link: '/about'
     },
