@@ -21,14 +21,15 @@
             ratione rem repudiandae sit!
           </p>
 
-          <h3>Another Fake Heading</h3>
+          <h3>Orio a čtvrtá včelička</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Mam ráda knihy a ráda je i píšu. Moje první kniha se jmenuje 
+            <strong>
+              Orio a čtvrtá včelička
+            </strong>
+            . <a href="/orio.pdf" target="_blank">Tady</a> si jí můžete stáhnout a přečíst.
           </p>
-          <quote-card />
+          <!-- <quote-card /> -->
           <h3>Still More Fake Content</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
@@ -42,7 +43,7 @@
           </p>
         </div>
 
-        <div class="tile is-ancestor">
+        <!-- <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
@@ -82,7 +83,7 @@
               </figure>
             </article>
           </div>
-        </div>
+        </div> -->
       </template>
 
       <template v-slot:sidebar>
