@@ -12,7 +12,7 @@ export default {
   siteName: 'Nikčiweb',
   tagline: 'Takový malý blogík',
   featureImage: '/uploads/home-hero.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo:  'logoHlavni.png', //'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: false,
     id: process.env.GOOGLE_ANALYTICS_ID
