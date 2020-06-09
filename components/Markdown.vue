@@ -3,8 +3,10 @@
 </template>
 
 <script>
-import MarkdownIt from 'markdown-it'
+import It from 'markdown-it'
 import VRuntimeTemplate from 'v-runtime-template'
+
+import mila from 'markdown-it-link-attributes'
 
 export default {
   name: 'Markdown',
@@ -23,6 +25,11 @@ export default {
         .use(require('markdown-it-sub'))
         .use(require('markdown-it-sup'))
         .use(require('markdown-it-footnote'))
+        use(mila, {
+          attrs: {
+            target: '_blank'
+          }
+        })
       let html = md.render(this.markdown)
 
       html = this.useResponsiveImages(html)
