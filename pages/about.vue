@@ -24,10 +24,9 @@
           <h3>Orio a čtvrtá včelička</h3>
           <p>
             Mam ráda knihy a ráda je i píšu. Moje první kniha se jmenuje 
-            <strong>
+            <i>
               Orio a čtvrtá včelička
-            </strong>
-            . <a href="/orio.pdf" target="_blank">Tady</a> si jí můžete stáhnout a přečíst.
+            </i>. <a href="/orio.pdf" target="_blank">Tady</a> si jí můžete stáhnout a přečíst.
           </p>
           <!-- <quote-card /> -->
           <h3>Still More Fake Content</h3>
