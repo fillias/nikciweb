@@ -25,7 +25,7 @@ export default {
         .use(require('markdown-it-sub'))
         .use(require('markdown-it-sup'))
         .use(require('markdown-it-footnote'))
-        use(mila, {
+        .use(mila, {
           attrs: {
             target: '_blank'
           }
