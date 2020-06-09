@@ -15,14 +15,14 @@
       <template v-slot:default>
         <div class="post-wrapper">
           <markdown :markdown="$store.state.content" />
+          <disqus-comments :identifier="$route.params.singlePost" />
           <div class="other-posts">
             <h6 class="subtitle is-size-4">
               Další příspěvky
             </h6>
             <!-- Related Posts -->
             <posts-grid :number="3" :category="category" :exclude="slug" />
-          </div>
-          <disqus-comments :identifier="$route.params.singlePost" />
+          </div>        
         </div>
       </template>
       <template v-slot:sidebar>
