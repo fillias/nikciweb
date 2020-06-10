@@ -9,8 +9,6 @@ featureImage: /uploads/snímek-obrazovky-46-.png
 ---
 měli jsme za úkol nakreslit pop art. Nesnáším pop art, ale tady je. vypracováno v GIMPU :-(
 
-<!--StartFragment-->
+
 
 ![](/uploads/snímek-obrazovky-46-.png)
-
-<!--EndFragment-->
