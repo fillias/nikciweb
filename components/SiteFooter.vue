@@ -1,6 +1,8 @@
 <template>
   <footer class="site-footer">
-    {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }}   |   Naškrábáno s <span style="color: #e25555;">&#9829;</span> na Nuxt.js a Netlify.
+    {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }}
+    </br>
+    Naškrábáno s <span style="color: #e25555;">&#9829;</span> na Nuxt.js a Netlify.
   </footer>
 </template>
 
