@@ -25,6 +25,9 @@
             <i>
               Orio a čtvrtá včelička
             </i>. <a href="/orio.pdf" target="_blank">Tady</a> si jí můžete stáhnout a přečíst.
+
+            <br>
+            Zakládám si YouTube kanál, na který budu házet animace k jednotlivým kapitolám. Odkazy budete nacházet na jejich koncích. Pište mi zpětnou vazbu a tak, budu ráda 😀.
              
           </p>
           <!-- <quote-card /> -->
