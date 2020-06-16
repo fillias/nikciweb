@@ -20,13 +20,13 @@
 
           <p>
             Mam ráda knihy. Ale ráda i píšu, takže <a href="/categories/kniha-na-pokra%C4%8Dov%C3%A1n%C3%AD" target="_blank">tady</a> je moje druhá kniha, kterou mám momentálně rozpracovanou. 
-            <br>
+            <br><br>
             Moje první kniha se jmenuje 
             <i>
               Orio a čtvrtá včelička
             </i>. <a href="/orio.pdf" target="_blank">Tady</a> si jí můžete stáhnout a přečíst.
 
-            <br>
+            <br><br>
             Zakládám si YouTube kanál, na který budu házet animace k jednotlivým kapitolám. Odkazy budete nacházet na jejich koncích. Pište mi zpětnou vazbu a tak, budu ráda 😀.
              
           </p>
