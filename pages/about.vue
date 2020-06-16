@@ -8,31 +8,27 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>Ahoj!</h3>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              <br>Jsem Blade a tohle je můj blog. 
             </strong>
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            Házím sem nějaké svoje výtvory, jako třeba obrázky. 
           </p>
 
-          <h3>Orio a čtvrtá včelička</h3>
           <p>
-            Mam ráda knihy a ráda je i píšu. Moje první kniha se jmenuje 
+            Mam ráda knihy. Ale ráda i píšu, takže <a href="/categories/kniha-na-pokra%C4%8Dov%C3%A1n%C3%AD" target="_blank">tady</a> je moje druhá kniha, kterou mám momentálně rozpracovanou. 
+            <br>
+            Moje první kniha se jmenuje 
             <i>
               Orio a čtvrtá včelička
             </i>. <a href="/orio.pdf" target="_blank">Tady</a> si jí můžete stáhnout a přečíst.
-            <br>
-             Teď píšu druhou, a postupně jí tu budu publikovat. Číst si jí můžete <a href="/categories/kniha-na-pokra%C4%8Dov%C3%A1n%C3%AD" target="_blank">tady</a>.
-            
+             
           </p>
           <!-- <quote-card /> -->
-          <h3>Still More Fake Content</h3>
+          <!-- <h3>Still More Fake Content</h3>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
             eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
@@ -43,7 +39,7 @@
             quisquam saepe? Alias architecto blanditiis consequatur consequuntur
             dicta ipsa iste modi provident, quod, similique veritatis.
           </p>
-        </div>
+        </div> -->
 
         <!-- <div class="tile is-ancestor">
           <div class="tile is-parent">
