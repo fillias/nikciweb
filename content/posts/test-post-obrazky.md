@@ -3,7 +3,7 @@ title: Pop art
 subtitle: Nevím, kdo to je
 category:
   - Moje obrazy
-author: Nikola
+author: Blade
 date: 2020-06-08T14:51:48.970Z
 featureImage: /uploads/popart.png
 ---
