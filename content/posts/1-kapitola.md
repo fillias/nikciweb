@@ -7,8 +7,6 @@ author: Nikola
 date: 2020-06-17T15:55:56.011Z
 featureImage: /uploads/inside-glacier-cave-2.jpg
 ---
-Tady jsou kapitoly z mé nové knihy. Prosím, pište mi do komentářů, co si o tom myslíte. A jestli budete mít nápad a chuť, napište mi tam i, jaký název by se vám líbil. :-)
-
 1. Kapitola
 
 Pamatuji si jen pár věcí. Vím, že jsem nebyla to, co jsem teď vždycky. Pamatuji si, že jsem byla malá holčička, Která měla sestru. Ale teď nemám nic. Dokonce mám pocit, že mi chybí i život,… doslova.
