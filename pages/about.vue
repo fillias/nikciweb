@@ -3,7 +3,7 @@
     <site-hero
       title="O mně"
       subtitle="Něco o mně"
-      image="/uploads/nikca_rozcuchana.jpg"
+      image="/uploads/omefoto.png"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
