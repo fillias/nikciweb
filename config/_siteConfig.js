@@ -33,12 +33,12 @@ export default {
     {
       name: 'Obsah',
       link: '/categories'
+    },
+    {
+      name: 'Můj YouTube kanál',
+      link: 'https://www.youtube.com/channel/UCUnSamIC-ttLDH5LqNHgTjQ',
+      target: '_blank'
     }
-    // {
-    //   name: 'Míši webík',
-    //   link: 'https://misiweb.netlify.com/',
-    //   target: '_blank'
-    // }
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
