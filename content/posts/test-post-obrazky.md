@@ -1,9 +1,9 @@
 ---
 title: Pop art
-subtitle: Nevím, kdo to je
+subtitle: Nevím, kdo to je, nevím, proč jsem to nevymazala ale nelíbí se mi to.
 category:
   - Moje obrazy
-author: Blade
+author: Rori
 date: 2020-06-08T14:51:48.970Z
 featureImage: /uploads/popart.png
 ---
