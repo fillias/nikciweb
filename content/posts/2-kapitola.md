@@ -3,7 +3,7 @@ title: 2. Kapitola
 subtitle: Bacha- je z pohledu úplně někoho jiného. Na videu makám :-)
 category:
   - Kniha na pokračování
-author: Blade
+author: Rori
 date: 2020-06-22T15:56:21.123Z
 featureImage: /uploads/20200620_132901.jpg
 ---
