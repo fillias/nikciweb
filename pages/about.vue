@@ -3,7 +3,7 @@
     <site-hero
       title="O mně"
       subtitle="Něco o mně"
-      image="/uploads/omefoto.png"
+      image="/uploads/untitled83_20210318074225-1-.png"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -11,7 +11,7 @@
           <h3>Ahoj!</h3>
           <p>
             <strong>
-              <br>Jsem Blade a tohle je můj blog. 
+              <br>Jsem Rori a tohle je můj blog. 
             </strong>
           </p>
           <p>
