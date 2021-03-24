@@ -3,7 +3,7 @@ title: 1. Kapitola
 subtitle: Ještě není video
 category:
   - Kniha na pokračování
-author: Blade
+author: Rori
 date: 2020-06-17T15:55:56.011Z
 featureImage: /uploads/inside-glacier-cave-2.jpg
 ---
